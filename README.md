@@ -41,7 +41,7 @@ I would like to express my gratitude to the online tutorials, documentation, and
 To run the project locally:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nurul-khan786/Basic-Calculator
+   git clone https://github.com/nurul-k/Basic-Calculator
 
 Open the index.html file in your browser.
 
