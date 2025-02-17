@@ -55,4 +55,4 @@ If you have any feedback or suggestions, feel free to reach out:
 
 Email: noorulk321@gmail.com
 
-GitHub: nurul-khan786
+GitHub: nurul-k
